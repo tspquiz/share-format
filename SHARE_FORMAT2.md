@@ -9,7 +9,7 @@ the correct one.
 When extensions are added, the version number will be incremented.
 
 * [ChangeLog](CHANGES.md)
-* [Version 1](SHARE_FORMAT2.md)
+* [Version 1](SHARE_FORMAT1.md)
 
 ## 1. Data Format
 Build a data structure based on ShareData as root element.
