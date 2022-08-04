@@ -1,5 +1,6 @@
 # TSP Quiz - Share format
-This meta repository documents the format used in TSP Quiz 1 and 2 to share a quiz.
+This meta repository documents the format used in TSP Quiz 1 (legacy version) and TSP Quiz 2 (current version) to share a quiz.
 
-The format used to share quiz between users is documented in [SHARE_FORMAT.md](SHARE_FORMAT.md).
+The format used to share quiz between users is documented in [SHARE_FORMAT2.md](SHARE_FORMAT2.md).
 
+[ChangeLog](CHANGES.md)
