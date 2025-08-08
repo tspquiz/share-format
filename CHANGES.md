@@ -1,3 +1,12 @@
+# Version 5
+Adds a new `options` field `autoPlay`
+
+Supported by TSP Quiz 2.22.0+
+
+Clarifies default value of `videoFilter` option
+
+[View version 5](SHARE_FORMAT5.md)
+
 # Version 4
 Adds new Memory `questionType`.
 
