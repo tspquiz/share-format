@@ -1,4 +1,4 @@
-# TSP Quiz Share format - Version 3
+# TSP Quiz Share format - Version 4
 This specification exist to provide open access to the data format which TSP Quiz
 uses to share quiz between users. With this information other apps/websites that
 work with signs from Teckenspårkslexikon can implement export/share to TSP Quiz.
