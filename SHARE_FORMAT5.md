@@ -46,7 +46,7 @@ interface ShareOptions {
     autoPlay : boolean; // Defaults to false when importing form older formats. Refers to automatic progression of quiz without user interaction and automatic restart at the end of the quiz.
 }
 interface ShareData {
-    version : number; // Share data format version. Should be 1, 2, 3 or 4 and denote the format version of the contained data.
+    version : number; // Share data format version. Should be 1, 2, 3, 4 or 5 and denote the format version of the contained data.
     options : ShareOptions|null; // Should be null if version is 1 and non-null if version is 2 or higher.
     questions : ShareQuestion[]; // Array of questions in the quiz
 }
